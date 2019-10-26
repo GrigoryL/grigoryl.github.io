@@ -112,3 +112,16 @@
 	width:30%;
 	text-align:center;
 	}
+	
+	   TABLE {
+    width: 300px; 
+    border-collapse: collapse;
+	margin: 20%;
+   }
+   TD, TH {
+    padding: 9px; 
+    border: 2px solid black; 
+   }
+   TH {
+    background: #blue; 
+   }
